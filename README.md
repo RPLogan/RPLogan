@@ -4,7 +4,7 @@
 - C++
 
 Coding and committing here and there as time allows.
-Can't imagine too many people wanting to reach me but, regardless, here's how:
+I keep my repositories private for now.  If you'd like access, here's how to contact me:
 - 📧   -> riley.logan@gmail.com
 - 🖇️In -> riley-logan
 
