@@ -5,7 +5,6 @@
 
 Coding and committing here and there as time allows.
 I keep my repositories private for now.  If you'd like access, here's how to contact me:
-- 📧   -> riley.logan@gmail.com
 - 🖇️In -> riley-logan
 
 <!---
